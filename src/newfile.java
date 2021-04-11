@@ -1,1 +1,1 @@
-new file test
+different file text
